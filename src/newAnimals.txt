@@ -1,0 +1,19 @@
+Welcome to the zoo! We have some new animals!
+We have 4 Hyenas, 4 Lions, 4 Tigers, and 4 Bears.
+
+Animal: name Shenzi, Age: 4 Species: hyena
+Animal: name Banzai, Age: 12 Species: hyena
+Animal: name Ed, Age: 4 Species: hyena
+Animal: name Kamari, Age: 8 Species: hyena
+Animal: name Scar, Age: 6 Species: lion
+Animal: name Mufasa, Age: 12 Species: lion
+Animal: name Simba, Age: 22 Species: lion
+Animal: name King, Age: 4 Species: lion
+Animal: name Yogi, Age: 2 Species: tiger
+Animal: name Smokey, Age: 4 Species: tiger
+Animal: name Paddington, Age: 18 Species: tiger
+Animal: name Lippy, Age: 3 Species: tiger
+Animal: name Tony, Age: 7 Species: bear
+Animal: name Tigger, Age: 25 Species: bear
+Animal: name Amber, Age: 4 Species: bear
+Animal: name Sasha, Age: 4 Species: bear
